@@ -1,6 +1,6 @@
 # MARA Roadmap                                                                                                               
                                                                                                                                
-This repository tracks feature requests, bug reports, and planned improvements for [MARA](https://maraiq.com) — the maritime security intelligence platform.                                                                                              
+This repository tracks feature requests, bug reports, and planned improvements for [MARA](https://maraiq.com) maritime security intelligence platform.                                                                                              
                                                                                                                                
 ## View the Roadmap                                                                                                          
                                                                                                                                
