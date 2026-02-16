@@ -5,7 +5,7 @@
                                                                                                                                
   ## View the Roadmap                                                                                                          
                                                                                                                                
-  **[View the Roadmap Board →](https://github.com/orgs/atlas-bear/projects/3)**                                                
+  **[View the Roadmap Board →](https://github.com/orgs/atlas-bear/projects/6/views/6?reload=1)**                                                
                                                                                                                                
   The board shows the status of all submitted feedback:                                                                        
                                                                                                                                
